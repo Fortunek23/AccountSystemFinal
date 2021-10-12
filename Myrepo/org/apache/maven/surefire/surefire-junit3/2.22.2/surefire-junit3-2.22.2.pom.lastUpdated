@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 11 21:08:29 CAT 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1633979309443
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-junit3\:pom\:2.22.2 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.22.2/surefire-junit3-2.22.2.pom
